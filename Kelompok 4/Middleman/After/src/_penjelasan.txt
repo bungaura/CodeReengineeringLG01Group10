@@ -1,0 +1,10 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswari
+
+Tanpa harus memanggil sesuatu dua kali
+maka sebaiknya dibuatkan sebuah method tersendiri.
+
+Walaupun menambah method, namun hasil yang diberikan
+akan sangat berguna jika sering digunakan.

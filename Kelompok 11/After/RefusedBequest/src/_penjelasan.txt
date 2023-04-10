@@ -1,0 +1,10 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Company hanya menggunakan satu method yang terdapat di
+PersonalTaxCalculator yang kemungkinan besar tidak akan
+digunakan oleh class lainnya kecuali Company itu sendiri.
+Oleh karena itu function untuk pajak perusahaan dipindah
+ke Company.
