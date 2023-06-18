@@ -1,0 +1,7 @@
+Deficient & Unexploited Encapsulation
+
+Deficient ketika sebuah class tidak dengan benar ditutup dengan method-method yang seharusnya menjadi gerbang untuk akses variable dalam class.
+solusinya adalah mengubah variable length and width menjadi private, serta menambah method get dan set untuk masing-masing variable. (Deficient Encapsulation)
+
+Unexploited Encapsulation dalam konteks ini adalah penggunaan yang kurang efisien terhadap class-class.
+Hal ini terjadi karena sudah ada istilah polymorphism dalam pemograman.
