@@ -1,0 +1,9 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Bahwa shoppingcart bukanlah sebuah class maupun object dan hanya berjalan sekali,
+maka wajar untuk function getTotalPrice menjadi tidak berguna sehingga
+perlu dibersihkan dengan cara mengubah getTotalPrice menjadi variable baru
+dalam function main karena hanya digunakan sekali.
