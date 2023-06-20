@@ -1,9 +1,0 @@
-KELOMPOK 10 LQ01
-2502005912 - Emmanuel Clement
-2502016475 - Haliza Syafa Oktaviani
-2502024382 - Bunga Aura Prameswari
-
-Karena ini merupakan incomplete library
-maka untuk mempermudah kinerja harus dibantu
-dengan cara membuat class baru untuk mengurus 
-atau handle API yang tidak dapat diubah tersebut.
