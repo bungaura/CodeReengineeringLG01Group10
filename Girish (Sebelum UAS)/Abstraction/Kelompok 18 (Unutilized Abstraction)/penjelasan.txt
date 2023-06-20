@@ -1,0 +1,7 @@
+Duplicate & Unutilized Abstraction
+
+Duplicate Abstraction sesuai namanya, menggunakan satu atau lebih abstraksi yang sangat mirip satu dengan yang lain
+sehingga menampilkan kode yang nampak seperti copy-paste (Duplicate). Solusinya adalah untuk membuat parent class yang mengandung hal-hal utama yang akan digunakan.
+
+Unutilized Abstraction, program untuk Car ini ditulis dengan tidak benar karena class sedan walaupun ekstensi dari class vehicle, namun tidak ada
+initilization, maka fitur-fitur dari parent class tidak akan digunakan sama sekali.

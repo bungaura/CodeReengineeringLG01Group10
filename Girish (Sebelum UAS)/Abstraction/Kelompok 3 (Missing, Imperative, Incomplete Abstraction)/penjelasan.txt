@@ -1,0 +1,6 @@
+Missing, Incomplete, and Imperative Abstraction.
+
+ada beberapa keberadaan dari function yang penting tidak ada di dalam kode
+seperti bagaimana ada code untuk menyimpan namun tidak ada kode untuk melihat. (Incomplete -> QrData)
+class yang harus dibuat namun hanya memiliki satu kegunaan. (Imperative -> QrToByteArrayInputStream)
+dan ada aset dalam class yang digunakan diluar program tanpa menggunakan method tersendiri. (Missing -> QrData.savedData.getOrDefault())
