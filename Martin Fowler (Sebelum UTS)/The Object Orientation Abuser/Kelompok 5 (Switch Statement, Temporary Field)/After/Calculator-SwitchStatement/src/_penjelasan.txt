@@ -1,0 +1,9 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Karena setiap class dapat menampung data yang berbeda dengan yang lain
+maka dimungkinkan untuk setiap class untuk diberikan identitas.
+Terutama untuk menghilangkan switch statement yang berlebihan hanya untuk
+validasi satu per satu.

@@ -1,0 +1,7 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Interface yang berbeda namun fungsinya sama, harus dilakukan extract method.
+Lalu dilakukan renaming untuk menghilangkan kebingunan.
