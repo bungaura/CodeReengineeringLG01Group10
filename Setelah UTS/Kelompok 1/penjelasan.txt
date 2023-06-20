@@ -1,7 +1,0 @@
-Large Class & Primitive Obsession
-
-dalam project Large Class dapat dilihat bahwa sebuah Class user menampung semua hal yang mampu dikatakan sebagai User
-perbaikan yang dapat dilakukan adalah membagi variable-variable tersebut menjadi sub class yang lebih layak dan spesifik dengan jobdesknya. (Large Class)
-
-dalam project Primitve Obsession, sesuai dengan namanya, masalah disini adalah penggunaan nomer untuk pilihan bermacam-macam
-sementara itu setiap class dapat dikategorisasikan secara langsung dengan namanya. (Primitive Obsession)
