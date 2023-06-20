@@ -1,0 +1,9 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Setengah dari class-class yang dibuat sangatlah
+tidak diperlukan oleh sebab itu harus
+diubah sehingga tidak ada hierarki
+yang dependant terhadap class / hierarki lainnya.

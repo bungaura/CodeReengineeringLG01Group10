@@ -1,0 +1,9 @@
+KELOMPOK 10 LQ01
+2502005912 - Emmanuel Clement
+2502016475 - Haliza Syafa Oktaviani
+2502024382 - Bunga Aura Prameswar
+
+Untuk mencegah divergent change salah satunya
+dapat dilakukan extract method yaitu
+dengan membuat class baru dengan tujuan tersendiri
+sehingga terhindar dari copypasta.
